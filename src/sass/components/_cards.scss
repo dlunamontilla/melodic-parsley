@@ -40,15 +40,6 @@
 		top: 0;
         width: 100%;
     }
-    
-    &:hover {
-        opacity: 0.7;
-    }
-
-    &:active {
-        opacity: none;
-        transition: none;
-    }
 }
 
 @include media-breakpoint-up(md) {
